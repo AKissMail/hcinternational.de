@@ -61,12 +61,14 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Home Care International e.V.
 Der Vorstand
-Postfach 200592
+Postfach 200538
 35018 Marburg
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke
-und Mittel der Verarbeitung personenbezogener Daten entscheidet. Speicherdauer Soweit innerhalb dieser 
-Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, 
+und Mittel der Verarbeitung personenbezogener Daten entscheidet. 
+
+### Speicherdauer 
+Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, 
 bis der Zweck der Datenverarbeitung entfällt.
 
 Sofern Sie ein berechtigtes Löschersuchen stellen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre 
@@ -140,7 +142,8 @@ Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen
 
 Im Fall einer Einschränkung erfolgt keine weitere Verarbeitung – mit Ausnahme der Speicherung – es sei denn, dies 
 geschieht mit Ihrer Einwilligung oder zur Geltendmachung von Rechtsansprüchen.
-Widerspruch gegen Werbe-E-Mails
+
+### Widerspruch gegen Werbe-E-Mails
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung nicht ausdrücklich 
 angeforderter Werbung wird hiermit widersprochen. Wir behalten uns im Falle unaufgeforderter Zusendung von
